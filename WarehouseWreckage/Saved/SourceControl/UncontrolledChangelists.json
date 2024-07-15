@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Max/Desktop/Unreal Engine/Projects/Warehouse Wreckage/Warehouse-Wreckage-Project/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/Users/Max/Desktop/Unreal Engine/Projects/Warehouse Wreckage/Warehouse-Wreckage-Project/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Projects/Warehouse Wreckage/Warehouse-Wreckage-Project/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/Max/Desktop/Unreal Engine/Projects/Warehouse Wreckage/Warehouse-Wreckage-Project/WarehouseWreckage/Content/NewContent/BP_Project.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Projects/Warehouse Wreckage/Warehouse-Wreckage-Project/WarehouseWreckage/Content/NewContent/BP_Projectile.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Projects/Warehouse Wreckage/Warehouse-Wreckage-Project/WarehouseWreckage/Content/NewContent/MainMap.umap",
+				"C:/Users/Max/Desktop/Unreal Engine/Projects/Warehouse Wreckage/Warehouse-Wreckage-Project/WarehouseWreckage/Content/IndustryPropsPack6/Textures/BaseTextures/T_Dirt_Mat.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Projects/Warehouse Wreckage/Warehouse-Wreckage-Project/WarehouseWreckage/Content/IndustryPropsPack6/Textures/T_Tarp01_Mat.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Projects/Warehouse Wreckage/Warehouse-Wreckage-Project/WarehouseWreckage/Content/IndustryPropsPack6/Textures/T_TrafficBarrel01_Mat.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Projects/Warehouse Wreckage/Warehouse-Wreckage-Project/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel03.uasset",
+				"C:/Users/Max/Desktop/Unreal Engine/Projects/Warehouse Wreckage/Warehouse-Wreckage-Project/WarehouseWreckage/Content/NewContent/Minimal_Default.umap"
 			]
 		}
 	]
